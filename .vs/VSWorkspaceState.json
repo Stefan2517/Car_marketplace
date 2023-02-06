@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\aplicatie",
+    "\\aplicatie\\aplicatie",
+    "\\aplicatie\\articol\\migrations",
+    "\\aplicatie\\media",
+    "\\aplicatie\\media\\articol_images",
+    "\\aplicatie\\principal",
+    "\\aplicatie\\principal\\sabloane\\principal"
+  ],
+  "SelectedNode": "\\aplicatie\\principal\\views.py",
+  "PreviewInSolutionExplorer": false
+}
